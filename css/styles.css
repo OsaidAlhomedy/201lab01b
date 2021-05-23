@@ -1,0 +1,28 @@
+#p1 {
+
+    color: aqua;
+    background-color: bisque;
+
+}
+#p2 {
+
+    color: red;
+    background-color:yellow;
+
+}
+#p3 {
+
+    color: darkgreen;
+    background-color: skyblue;
+
+}
+#p4 {
+
+    color: azure;
+    background-color: violet;
+
+}
+
+p {
+    text-align: center;
+}
