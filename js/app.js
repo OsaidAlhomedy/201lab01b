@@ -7,7 +7,7 @@ console.log(userSis);
 let userPet = prompt ('Do you have a pet ? , hint: write yes or no')
 console.log(userPet);
 
-if (userPet === '11yes') {
+if (userPet === 'yes') {
     userPet = "have";
 } else{
     userPet = "don't have"
